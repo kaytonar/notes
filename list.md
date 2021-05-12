@@ -1,3 +1,3 @@
 # main headline
 
-this is **markdown** and is is ***great***
+this is **markdown** and it is ***great***
