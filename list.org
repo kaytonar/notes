@@ -1,6 +1,7 @@
 #+TITLE: List
 
-* Hello
-** this is a org doc
+* list in org
 
-* another headline
+1. hi
+2. bye
+    + hello
