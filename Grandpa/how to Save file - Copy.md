@@ -1,8 +1,8 @@
 # How to Save file
 
 1. Open Word.
-   1. Click Start on bottom Bar of windows, Far left option(looks like four blue squares) 
-   2. Find Word(Blue square with "W" in bottom left corner) ![word](Word.png)
+   1. Click Start on bottom Bar of windows, Far left option(looks like four blue squares)
+   2. Find Word(Blue square with "W" in bottom left corner)
 
 2. Click file (Fig 1)
    1. left most beside home on main bar, above "Paste"
