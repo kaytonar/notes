@@ -1,7 +1,14 @@
 #+TITLE: List
 
 * list in org
+** Testing Org mode
+  1. 1
+  2. 2
+  3. 4
+  4. 5
 
-1. hi
-2. bye
-    + hello
+* unlist
+ - 4
+ - 4
+ - 3
+ - 5
